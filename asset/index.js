@@ -4,7 +4,7 @@ let canvas = document.querySelector("#gameZone"); //ou document.getElementById("
 //2. Appeler le contexte(=les axes utilisés pour dessiner) de l'element <canvas> 
 let contexte = canvas.getContext('2d');
 
-//3. Initialiser un SetInterval (permet que la fonction principale soit toujours verifiée toutes les un certain nombre de millisecondes)
+//3. Initialieser un SetInterval (permet que la fonction principale soit toujours verifiée toutes les un certain nombre de millisecondes)
 let RunTheGame = setInterval(game, 100);
 const grid = 20;
 const snake = {
