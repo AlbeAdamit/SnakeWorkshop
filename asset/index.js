@@ -136,7 +136,7 @@ window.addEventListener("keydown", clavier);
 
 //15. Définir l'object pomme: const pomme={}
 
-//16. Dans la fonction game définit plus haut, vérifier s'il y a des collisions entre la pomme et le Snake
+//16. Dans la fnction game définit plus haut, vérifier s'il y a des collisions entre la pomme et le Snake
 
 //17. Adapter le comportement du Snake et de la pomme s'il y a collisions
 
